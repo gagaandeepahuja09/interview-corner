@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/interview-corner/static/js/runtime~main.f20c017b.js"
   },
   {
-    "revision": "3dd91c889e3457020217",
-    "url": "/interview-corner/static/js/main.3dd91c88.chunk.js"
+    "revision": "5f5de3b17d0531bab02e",
+    "url": "/interview-corner/static/js/main.5f5de3b1.chunk.js"
   },
   {
     "revision": "dbcc4a2f11b50cccd426",
     "url": "/interview-corner/static/js/1.dbcc4a2f.chunk.js"
   },
   {
-    "revision": "3dd91c889e3457020217",
+    "revision": "5f5de3b17d0531bab02e",
     "url": "/interview-corner/static/css/main.d3300586.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/interview-corner/static/css/1.8949e658.chunk.css"
   },
   {
-    "revision": "da402dffda82e3594a04ae224772b96d",
+    "revision": "74daba8dff8e742c924e4c11cffa5159",
     "url": "/interview-corner/index.html"
   }
 ];
