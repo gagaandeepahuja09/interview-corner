@@ -62,7 +62,7 @@ class Header extends Component {
                     <Route path = "/interview-corner/company-search/"  component = { CompanySearch } />
                     <Route path = "/interview-corner/company-interviews/"  component = { CompanyInterviews } />
                     <Route path = "/interview-corner/univ-company-interviews/"  component = { UnivCompanyInterviews } />
-                    <Route path = "/interview-corner" exact component = { UnivSearch } />
+                    <Route path = "/" exact component = { UnivSearch } />
                     <Route path = "/interview-corner/interview"  exact component = { Interview } />
                     <Route path = "/interviews/new" exact component = { NewInterview } />
                     <Route path = "/new-jobs" exact component = { NewJobs } />
